@@ -6,16 +6,23 @@ Project Plan: https://docs.google.com/document/d/1lteGC-QeGKBHitS1yP-VrFKNDSdBuX
 
 # Contributors
 **Faculty Advisor**
-Murat Kantarcioglu
+
+- Murat Kantarcioglu
 
 **Research Lead**
-Victoria Vynnychok
+
+- Victoria Vynnychok
 
 **Team**
-Ermina Ashraf
-Izma Khurram
-Aaryaa Moharir
-Lerich Osay
-Daniel Suh
+
+- Ermina Ashraf
+
+- Izma Khurram
+
+- Aaryaa Moharir
+
+- Lerich Osay
+
+- Daniel Suh
 
 # References
