@@ -1,28 +1,19 @@
 # Conceal-and-Reveal: Exploring Image Steganography and Steganalysis
 
-Steganography is used to conceal information within plain sight, while Steganalysis is employed to reveal this information. You will hide messages within images, then utilize various techniques to detect and unveil the concealed content. Afterwards, you will train a machine learning model to classify images that contain hidden information.
+Semester Overview: https://docs.google.com/document/d/1lteGC-QeGKBHitS1yP-VrFKNDSdBuXJk4wH395_MepI/edit?usp=sharing
 
-Project Plan: https://docs.google.com/document/d/1lteGC-QeGKBHitS1yP-VrFKNDSdBuXJk4wH395_MepI/edit?usp=sharing
+# Introduction
+
+Steganography has various forms and uses whether it be as invisible ink messages or digital watermarks. Although it is often confused with cryptography, steganography doesn’t hide a message’s meaning but rather conceals that message’s existence. Steganalysis is then used to determine whether steganography has been used on content like an image and then to reveal the hidden message.
+
+Our research consisted of using various techniques to implement steganography and steganalysis, and experimenting with cryptography to hide a message’s meaning. We created and ran various machine learning models using both convolutional neural networks (CNN), such as ResNet50 and EfficientNetV2‐S, and support vector machines (SVM) to detect the difference between images with and without steganography.
 
 # Contributors
-**Faculty Advisor**
 
-- Murat Kantarcioglu
+**Team**: Ermina Ashraf, Izma Khurram, Aaryaa Moharir, Lerich Osay, Daniel Suh
 
-**Research Lead**
+**Research Lead**: Victoria Vynnychok
 
-- Victoria Vynnychok
-
-**Team**
-
-- Ermina Ashraf
-
-- Izma Khurram
-
-- Aaryaa Moharir
-
-- Lerich Osay
-
-- Daniel Suh
+**Faculty Advisor**: Murat Kantarcioglu
 
 # References
