@@ -1,12 +1,19 @@
-# Conceal-and-Reveal: Exploring Image Steganography and Steganalysis
+# Conceal and Reveal: Exploring Image Steganography and Steganalysis
 
-Semester Overview: https://docs.google.com/document/d/1lteGC-QeGKBHitS1yP-VrFKNDSdBuXJk4wH395_MepI/edit?usp=sharing
+[Poster Image]
 
-# Introduction
+# References
+Guo, L., Ni, J., Su, W., Tang, C., & Shi, Y. (2015). Using statistical image model for JPEG steganography: uniform embedding revisited. IEEE Transactions on Information Forensics and Security., 10(12), 2669–2680. https://doi.org/10.1109/tifs.2015.2473815
 
-Steganography has various forms and uses whether it be as invisible ink messages or digital watermarks. Although it is often confused with cryptography, steganography doesn’t hide a message’s meaning but rather conceals that message’s existence. Steganalysis is then used to determine whether steganography has been used on content like an image and then to reveal the hidden message.
+Digital Image Steganalysis: Current methodologies and Future challenges. (2022). IEEE Journals & Magazine | IEEE Xplore. https://ieeexplore.ieee.org/document/9869816
+    
+Holub, V., Fridrich, J., & Denemark, T. (2014). Universal distortion function for steganography in an arbitrary domain. Eurasip Journal on Information Security, 2014(1). https://doi.org/10.1186/1687-417x-2014-1 
+     
+Płachta, M., Krzemień, M., Szczypiorski, K., & Janicki, A. (2022). Detection of image steganography using deep learning and ensemble classifiers. Electronics, 11(10), 1565. https://doi.org/10.3390/electronics11101565 
+     
+Ranjan, N. (2021). Image Stegnalysis through Deep Learning and LSB. International Journal of Engineering Research & Technology (IJERT), 10(8). https://www.ijert.org/research/image-stegnalysis-through-deep-learning-and-lsb-IJERTV10IS080015.pdf
 
-Our research consisted of using various techniques to implement steganography and steganalysis, and experimenting with cryptography to hide a message’s meaning. We created and ran various machine learning models using both convolutional neural networks (CNN), such as ResNet50 and EfficientNetV2‐S, and support vector machines (SVM) to detect the difference between images with and without steganography.
+Rémi Cogranne, Quentin Giboulot, Patrick Bas. (Jun 2020). Steganography by Minimizing Statistical Detectability: The cases of JPEG and Color Images.. ACM Information Hiding and MultiMedia Security (IH&MMSec), , Denver, CO, United States.
 
 # Contributors
 
@@ -15,5 +22,3 @@ Our research consisted of using various techniques to implement steganography an
 **Research Lead**: Victoria Vynnychok
 
 **Faculty Advisor**: Murat Kantarcioglu
-
-# References
