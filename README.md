@@ -1,6 +1,27 @@
 # Conceal and Reveal: Exploring Image Steganography and Steganalysis
 
-[Poster Image]
+![Conceal_and_Reveal-1](https://github.com/ACM-Research/Conceal-and-Reveal/assets/62407356/7e74817e-caf6-4756-97ba-5b5d83e92c32)
+
+# Introduction
+
+
+# Steganographic Methods
+
+
+# Dataset
+
+
+# Model Methodology
+
+
+# Results
+
+
+# Analysis and Comparison
+
+
+# Conclusion
+
 
 # References
 Guo, L., Ni, J., Su, W., Tang, C., & Shi, Y. (2015). Using statistical image model for JPEG steganography: uniform embedding revisited. IEEE Transactions on Information Forensics and Security., 10(12), 2669–2680. https://doi.org/10.1109/tifs.2015.2473815
@@ -16,9 +37,10 @@ Ranjan, N. (2021). Image Stegnalysis through Deep Learning and LSB. Internationa
 Rémi Cogranne, Quentin Giboulot, Patrick Bas. (Jun 2020). Steganography by Minimizing Statistical Detectability: The cases of JPEG and Color Images.. ACM Information Hiding and MultiMedia Security (IH&MMSec), , Denver, CO, United States.
 
 # Contributors
-
-**Team**: Ermina Ashraf, Izma Khurram, Aaryaa Moharir, Lerich Osay, Daniel Suh
-
-**Research Lead**: Victoria Vynnychok
-
-**Faculty Advisor**: Murat Kantarcioglu
+- Ermina Ashraf
+- Izma Khurram
+- Aaryaa Moharir
+- Lerich Osay
+- Daniel Suh
+- **Research Lead**: Victoria Vynnychok
+- **Faculty Advisor**: Murat Kantarcioglu
