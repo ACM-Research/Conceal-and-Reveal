@@ -30,7 +30,11 @@ Figure 1. ALASKA2 Dataset Images
 # Results
 <img width="395" alt="cnnnewaccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/dbb613bc-9de9-4e2f-9269-4ae96efe5dbd">
 
-Figure 2. EfficientNetV2‐S Accuracy Graph
+Figure 1. EfficientNetV2‐S Accuracy Graph
+
+<img width="395" alt="cnnloss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/66750249/b76bc0c8-50ff-4a28-a69e-3147eca8ab87">
+
+Figure 2. EfficientNetV2‐S Loss Graph
 
 <img width="395" alt="resnetAccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/7149a823-37a8-43b6-a367-b4c66c3db096">
 
@@ -38,11 +42,11 @@ Figure 3. ResNet50 Accuracy Graph
 
 <img width="395" alt="resnetLoss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/97755b9f-0846-460a-9bf7-b5c213139ab3">
 
-Figure 4. EfficientNetV2‐S Loss Graph
+Figure 4. ResNet50 Loss Graph
 
 <img width="395" alt="resnetLoss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/f0924066-6674-4e92-b67a-54e97886e5cc">
 
-Figure 5. ResNet50 Loss Graph
+Figure 5. SVM Results
 
 
 # Analysis and Comparison
