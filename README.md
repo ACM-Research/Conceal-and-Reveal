@@ -16,11 +16,12 @@
 
 
 # Results
-<img width="618" alt="cnnnewaccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/dbb613bc-9de9-4e2f-9269-4ae96efe5dbd">
-<img width="607" alt="cnnnewloss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/e7af79cf-8c71-4af7-9f41-62ab90df741b">
-<img width="361" alt="resnetAccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/7149a823-37a8-43b6-a367-b4c66c3db096">
-<img width="354" alt="resnetLoss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/97755b9f-0846-460a-9bf7-b5c213139ab3">
-![SVM conf matrix](https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/f0924066-6674-4e92-b67a-54e97886e5cc)
+<img width="395" alt="cnnnewaccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/dbb613bc-9de9-4e2f-9269-4ae96efe5dbd">
+<img width="395" alt="cnnnewloss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/e7af79cf-8c71-4af7-9f41-62ab90df741b">
+<img width="395" alt="resnetAccuracy" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/7149a823-37a8-43b6-a367-b4c66c3db096">
+<img width="395" alt="resnetLoss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/97755b9f-0846-460a-9bf7-b5c213139ab3">
+<img width="395" alt="resnetLoss" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/f0924066-6674-4e92-b67a-54e97886e5cc">
+
 # Analysis and Comparison
 
 
