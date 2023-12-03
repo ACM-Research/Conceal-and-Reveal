@@ -19,6 +19,7 @@ The dataset we used was the ALASKA2 Image Steganalysis dataset on Kaggle. It con
 
 <img width="395" alt="research" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/0f8f7cbc-0abb-49ae-b386-3ac5acb54056">
 
+Figure 1. ALASKA2 Dataset Images
 
 # Model Methodology
 
