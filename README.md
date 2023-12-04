@@ -51,11 +51,11 @@ Figure 5. SVM Linear Kernel Test Results' confusion matrix
 
 ![SVM linear kernel](https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/e017929f-8c33-4a81-8a81-4e7eb34fe7ad)
 
-SVM Accuracy vs Sample Size, using a linear kernel
+SVM Accuracy Graph, Using a Linear Kernel
 
 ![SVM rbf kernel](https://github.com/ACM-Research/Conceal-and-Reveal/assets/86967773/a3d15148-702e-4023-aa62-d34f501511b7)
 
-SVM Accuracy vs Sample Size, using an rbf kernel
+SVM Accuracy Graph, Using an RBF Kernel
 
 ![multiclass_confusionmatrix_stego](https://github.com/ACM-Research/Conceal-and-Reveal/assets/54644918/11e0f1e7-c9b4-4661-baa9-d542d8d7462f)
 
