@@ -49,10 +49,13 @@ Figure 4. ResNet50 Loss Graph
 
 Figure 5. SVM Results
 
+![multiclass_confusionmatrix_stego](https://github.com/ACM-Research/Conceal-and-Reveal/assets/54644918/11e0f1e7-c9b4-4661-baa9-d542d8d7462f)
+
+Multiclass Confusion Matrix
 
 # Analysis and Comparison
 
-Our most accurate model was the ResNet50 model with an accuracy of **74%**. The EfficientNetV2-S model had **68%** accuracy, and our SVC model had the lowest accuracy of **53%**. Our EfficientNetV2-S model seemed to over-fit after the sixth epoch and had trouble learning in general. The ResNet50 was more stable, although a similar plateau occurred near epoch 4. The SVC model had the lowest accuracy, as expected, likely because of its smaller parameter size and dataset.
+Our most accurate model was the ResNet50 model with an accuracy of **74%**. The EfficientNetV2-S model had **68%** accuracy, and our SVC model had the lowest accuracy of **53%**. Our EfficientNetV2-S model seemed to over-fit after the sixth epoch and had trouble learning in general. The ResNet50 was more stable, although a similar plateau occurred near epoch 4. The SVC model had the lowest accuracy, as expected, likely because of its smaller parameter size and dataset. Although not included in the poster, the multiclass confusion matrix demonstrates to some extent how hard each algorithm is to detect, if e
 
 # Conclusion
 
