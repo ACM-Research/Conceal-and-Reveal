@@ -6,13 +6,13 @@
 
 Steganography has various forms and uses, whether it be as invisible ink messages or digital watermarks. Although it is often confused with cryptography, steganography does not hide a message's meaning but rather conceals its existence. Steganalysis is then used to determine whether steganography has been used on content, such as an image, and reveals the hidden message. 
 
-Our research consisted of using various techniques to implement steganography and steganalysis, and experimenting with cryptography to hide a message's meaning. We created and ran various machine learning models using both convolutional neural networks (CNN), such as ResNet50 and EfficientNetV2-S, and support vector machines (SVM) to detect whether or not an image had been steganographically modified.
+Our research consisted of using various techniques to implement steganography and steganalysis, and experimenting with cryptography to hide a message's meaning. We created and ran various machine learning models using both convolutional neural networks (CNN), such as ResNet50 and EfficientNetV2-S, and support vector machines (SVM) to detect whether or not an image had been steganographically modified. 
 
 # Steganographic Methods
 
 The main methods we researched were least-significant-bit (**LSB**) steganography, **JMiPOD**, **UERD**, and **J-UNIWARD**. The LSB algorithm simply changes the least significant bits of pixel values to hide information as the human eye barely notices small changes in color values. More advanced algorithms tend to use the quantized DCT (discrete cosine transform) coefficients for hiding information while minimizing statistical differences. DCT coefficients are created during the JPEG compression process, generally in 8x8 blocks. Small changes in these coefficients (which are then converted back into pixels when a JPEG is opened) are harder to detect. J-UNIWARD selectively embeds in higher frequency areas, UERD attempts to uniformly embed across all DCT coefficients, and JMiPOD focuses on minimizing the power (true positive likelihood) of an optimal detector.
 
-<img width="395" alt="LSB" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/139103840/23e9fdcc-e4a6-438b-b39d-81af98d5fce8">
+<img width="395" alt="LSB" src="https://github.com/ACM-Research/Conceal-and-Reveal/assets/139103840/23e9fdcc-e4a6-438b-b39d-81af98d5fce8"> 
 
 Diagram Demonstrating LSB Manipulation
 
